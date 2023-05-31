@@ -109,3 +109,6 @@ main{
 	background-image: linear-gradient(to right,#4458dc 0%,#854fee 100%);
 	border-image: double 2px transparent;
 }
+myimg{
+	width:500px;
+}
